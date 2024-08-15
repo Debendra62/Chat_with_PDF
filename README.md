@@ -40,6 +40,10 @@ Create a .env file in the root directory of the project and add your Google API 
 GOOGLE_API_KEY=your_google_api_key      
 ```
 
+## Get the API key
+
+  https://aistudio.google.com/app/u/1/apikey
+
 ### Run the Application
 
 To run the Streamlit application, use the following command:
