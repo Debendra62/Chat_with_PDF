@@ -1,3 +1,7 @@
+## 🔗 Links
+Follow on 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debendra-bakhati/)
+
 # PDF Chatbot
 
 This is a Streamlit application that allows users to query multiple PDF files and get responses from a conversational AI model. The application utilizes Google Generative AI for embeddings and conversational responses.
@@ -7,7 +11,7 @@ This is a Streamlit application that allows users to query multiple PDF files an
 First, clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/Debendra62/Chat_with_PDF.git
 ```
 
 ### Set Up the Virtual Environment
